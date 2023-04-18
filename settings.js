@@ -17,25 +17,25 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94770378874'] //ur owner number
 global.ownername = "suki Official" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.socialm = "GitHub: DARK-SHADOW" //ur github or insta name
+global.location = "Sri Lanka, ANURADHAPURA, PADAVIYA" //ur location
 
 //bot bomdy 
 global.ownernomer = "94770378874" //ur number
 global.premium = ['94770378874'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.botname = '[DARK-SHADOW]' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.botscript = 'https://github.com' //script link
+global.themeemoji = "😇" //ur theme emoji
+global.packname = "Sticker By DARK-SHADOW" //ur sticker watermark packname
+global.author = "SHADOW Official" //ur sticker watermark author
+global.wm = "[ＤＡＲＫ-ＳＨＡＤＯＷ] " //ur watermark
 
 // Other
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.sp = '©'
 
 //messages
 global.mess = {
@@ -54,10 +54,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://telegra.ph/file/b3f17c16eedf99731a52d.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/b3f17c16eedf99731a52d.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://telegra.ph/file/b3f17c16eedf99731a52d.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/b3f17c16eedf99731a52d.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
